@@ -1,0 +1,125 @@
+{
+    "login": {
+        "toolbar": {
+            "title": "Sign in"
+        }
+    },
+
+    "days": {
+        "monday": "Monday",
+        "tuesday": "Tuesday",
+        "wednesday": "Wednesday",
+        "thursday": "Thursday",
+        "friday": "Friday",
+        "saturday": "Saturday",
+        "sunday": "Sunday"
+    },
+
+    "shortKeys": {
+        "hour": "h",
+        "minute": "min",
+        "second": "s"
+    },
+
+    "yes": "Yes",
+    "no": "No",
+
+    "true": "Yes",
+    "false": "No",
+
+    "nav": {
+        "articles": "Articles"
+    },
+
+    "success": {
+        "create": "Record successfully created!",
+        "update": "Record successfully updated!",
+        "delete": "Record successfully deleted!"
+    },
+
+    "invalid-form": "Form is not valid!",
+
+    "btn": {
+        "send": "Send",
+        "save": "Save",
+        "ok": "OK",
+        "create": "Create",
+        "update": "Update",
+        "delete": "Delete",
+        "cancel": "Cancel",
+        "add-new": "Add New"
+    },
+
+    "rules": {
+        "required": "This field is required",
+        "max": "This field must be less than {max} characters",
+        "min": "This field must be more than {min} characters",
+        "email": "E-mail must be valid",
+        "match": "Do not match with {field}!",
+        "url": "Invalid URL!",
+        "image": "File size should be less than 2 MB!"
+    },
+
+    "delete-dialog": {
+        "title": "Delete",
+        "body": "Are you sure you want to delete this item?"
+    },
+
+    "input-search": "Search",
+
+    "register": "Register",
+    "verify_email_address": "We sent you an email with an the verification link.",
+    "failed_to_verify_email": "Failed to verify email.",
+    "send_verification_link": "Send Verification Link",
+    "resend_verification_link": "Resend Verification Link?",
+    "verify_email": "Verify Email",
+    "email": "Email",
+
+    "articles": {
+        "fields": {
+            "title": "Title",
+            "content": "Content",
+            "user_id": "Author"
+        },
+        "list-page": {
+            "title": "Create Article",
+            "sub-title": "create, edit, delete and etc.",
+            "data-table-title": "Articles Data Table",
+            "input-search": "Search",
+            "data-table-headers": [
+                {
+                    "text": "Title",
+                    "value": "title"
+                },
+                {
+                    "text": "Autor",
+                    "value": "autor"
+                },
+                {
+                    "text": "Created At",
+                    "value": "created_at",
+                    "sortable": false
+                },
+                {
+                    "text": "Updated At",
+                    "value": "updated_at",
+                    "sortable": false
+                },
+                {
+                    "text": "Actions",
+                    "value": "actions",
+                    "sortable": false
+                }
+            ]
+        },
+        "create-page": {
+            "title": "Create Article"
+        },
+        "edit-page": {
+            "title": "Edit Article",
+            "tabs": {
+                "general": "General"
+            }
+        }
+    }
+}
